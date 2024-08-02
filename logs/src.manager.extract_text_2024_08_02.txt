@@ -1,0 +1,3 @@
+2024-08-02 14:29:52,275 - src.manager.extract_text - INFO - Successfully extracted text from PDF. data\raw_resumes\Resume Atharva Shinde.pdf
+2024-08-02 14:32:35,810 - src.manager.extract_text - INFO - Successfully extracted text from PDF. data\raw_resumes\Resume Atharva Shinde.pdf
+2024-08-02 15:05:48,817 - src.manager.extract_text - INFO - Successfully extracted text from PDF. data\raw_resumes\Resume Atharva Shinde.pdf

@@ -1,0 +1,3 @@
+2024-08-02 14:29:52,332 - src.manager.save_json - INFO - Successfully saved parsed JSON at data/processed_json\Resume Atharva Shinde.json
+2024-08-02 14:32:45,751 - src.manager.save_json - INFO - Successfully saved parsed JSON at data/processed_json\Resume Atharva Shinde.json
+2024-08-02 15:05:57,496 - src.manager.save_json - INFO - Successfully saved parsed JSON at data/processed_json\Resume Atharva Shinde.json

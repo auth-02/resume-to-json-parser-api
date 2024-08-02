@@ -1,0 +1,3 @@
+2024-08-02 14:29:52,326 - src.manager.clean_text - INFO - Successfully cleaned the text.
+2024-08-02 14:32:35,829 - src.manager.clean_text - INFO - Successfully cleaned the text.
+2024-08-02 15:05:48,829 - src.manager.clean_text - INFO - Successfully cleaned the text.

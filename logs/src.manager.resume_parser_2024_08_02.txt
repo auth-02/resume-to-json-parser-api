@@ -1,0 +1,3 @@
+2024-08-02 14:29:52,327 - src.manager.resume_parser - ERROR - Error generating resume JSON: 
+2024-08-02 14:32:45,739 - src.manager.resume_parser - INFO - Successfully generated JSON from cleaned text.
+2024-08-02 15:05:57,492 - src.manager.resume_parser - INFO - Successfully generated JSON from cleaned text.
